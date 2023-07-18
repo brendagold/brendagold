@@ -10,6 +10,7 @@ I am a seasoned Software Engineer skilled in building applications that solve re
 ### Skills
 
 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp; &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp; &nbsp;
@@ -37,7 +38,8 @@ I am a seasoned Software Engineer skilled in building applications that solve re
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<div style="display:flex;">
+  <a href="https://github.com/brendagold" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendagold&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
 <a href="http://www.github.com/brendagold"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brendagold&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/brendagold" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendagold&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div
