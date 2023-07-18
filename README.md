@@ -1,4 +1,4 @@
-Hi 👋I am Mary 
+Hi 👋 I am Mary 
 ==============================
 
 I am a seasoned Software Engineer skilled in building applications that solve real-world problems. I believe in the power of programming to transform and improve the lives of people around the world.
